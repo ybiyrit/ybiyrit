@@ -13,7 +13,7 @@ Currently, I am working as
 
 My interests are Software Engineering, DevOps, and culture.
 
-In my free time, I am currently working on random Open Source stuff, mainly trying out things...
+In my free time, I am working on random Open Source stuff, mainly trying out things ...
 
 ### Find me on
 
