@@ -15,16 +15,16 @@ My interests are Software Engineering, DevOps, and culture.
 
 In my free time, I am working on random Open Source stuff, mainly trying out things ...
 
+### Current Demos
+
+-   [delvrit/demo-multipass-dev](https://github.com/delvrit/demo-multipass-dev)
+
 ### Find me on
 
 -   [Github](https://github.com/ybiyrit)
 -   [Twitter](https://twitter.com/bjoernstuetz)
 
 > These are my thoughts and opinions. They may not be yours or my employers.
-
-# Current Demos
-
--   [delvrit/demo-multipass-dev](https://github.com/delvrit/demo-multipass-dev)
 
 ## Maintainers
 
