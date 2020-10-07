@@ -1,14 +1,35 @@
-### Hi there 👋
+## Bjoern Stuetz
 
-<!--
-**ybiyrit/ybiyrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Engineer (Tech Lead, Solution Architect)
+
+> 'Change the company, or change the company.'
+
+### Hi there, I am Bjoern
+
+Currently, I am working as
+
+-   **System Architect**, Dr. Ing. h.c. F. Porsche AG
+-   **Lecturer**, Baden-Wuerttemberg Cooperative State University (DHBW) Stuttgart
+
+My interests are Software Engineering, DevOps, and culture.
+
+In my free time, I am currently working on random Open Source stuff, mainly trying out things...
+
+### Find me on
+
+-   [Github](https://github.com/ybiyrit)
+-   [Twitter](https://twitter.com/bjoernstuetz)
+
+> These are my thoughts and opinions. They may not be yours or my employers.
+
+# Current Demos
+
+-   [delvrit/demo-multipass-dev](https://github.com/delvrit/demo-multipass-dev)
+
+## Maintainers
+
+See [maintainers](MAINTAINERS.md).
+
+## Changelog
+
+See [changelog](CHANGELOG.md).
