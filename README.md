@@ -22,7 +22,7 @@ In my free time, I am working on random Open Source stuff, mainly trying out thi
 ### Find me on
 
 -   [Github](https://github.com/ybiyrit)
--   [Twitter](https://twitter.com/bjoernstuetz)
+-   [Mastodon](https://digitalcourage.social/@bjoernstuetz)
 
 > These are my thoughts and opinions. They may not be yours or my employers.
 
