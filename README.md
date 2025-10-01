@@ -17,7 +17,7 @@ In my free time, I am working on random Open Source stuff, mainly trying out thi
 
 ### Current Demos
 
--   [delvrit/demo-multipass-dev](https://github.com/delvrit/demo-multipass-dev)
+-   WIP ;-)
 
 ### Find me on
 
