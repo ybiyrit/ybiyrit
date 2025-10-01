@@ -11,7 +11,7 @@ Currently, I am working as
 -   **Solution Architect/System Architect**, Dr. Ing. h.c. F. Porsche AG
 -   **Lecturer**, Baden-Wuerttemberg Cooperative State University (DHBW) Stuttgart
 
-My interests are Software Engineering, DevOps, and culture.
+My interests are Software Engineering, DevOps, and dev culture.
 
 In my free time, I am working on random Open Source stuff, mainly trying out things ...
 
