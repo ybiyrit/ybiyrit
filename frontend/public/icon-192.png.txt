@@ -1,0 +1,1 @@
+This is a placeholder. In production, use a 192x192 PNG icon.

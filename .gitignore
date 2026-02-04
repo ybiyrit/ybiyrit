@@ -1,1 +1,26 @@
 .env
+# Gradle
+.gradle/
+build/
+backend/.gradle/
+backend/build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Node/Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.svelte-kit/
+frontend/build/
+
+# SQLite
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
