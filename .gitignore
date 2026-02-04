@@ -21,6 +21,9 @@ frontend/build/
 *.db
 *.sqlite
 
+# Docker data
+data/
+
 # OS
 .DS_Store
 Thumbs.db

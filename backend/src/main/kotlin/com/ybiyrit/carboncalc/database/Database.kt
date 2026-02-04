@@ -47,9 +47,11 @@ class Database(private val dbPath: String = "carbon_footprint.db") {
         statement?.setDouble(5, carbonKg)
         statement?.executeUpdate()
 
-        val generatedKeys = statement?.generatedKeys
-        return if (generatedKeys?.next() == true) {
-            generatedKeys.getLong(1)
+        // Get the last inserted row id
+        val lastIdQuery = "SELECT last_insert_rowid()"
+        val resultSet = connection?.createStatement()?.executeQuery(lastIdQuery)
+        return if (resultSet?.next() == true) {
+            resultSet.getLong(1)
         } else {
             -1L
         }

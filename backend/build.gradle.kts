@@ -23,7 +23,7 @@ dependencies {
     implementation("org.xerial:sqlite-jdbc:3.44.1.0")
     
     // Logging
-    implementation("ch.qos.logback:logback-classic:1.4.11")
+    implementation("ch.qos.logback:logback-classic:1.4.14")
     
     // Kotlin
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0")
