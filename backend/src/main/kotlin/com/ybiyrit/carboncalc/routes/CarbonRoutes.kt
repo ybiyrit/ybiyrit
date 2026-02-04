@@ -41,7 +41,7 @@ fun Route.carbonRoutes(database: Database) {
                         value = request.value,
                         unit = request.unit,
                         carbonKg = carbonKg,
-                        timestamp = System.currentTimeMillis().toString()
+                        timestamp = java.time.Instant.now().toString()
                     )
                 )
             } catch (e: IllegalArgumentException) {

@@ -30,6 +30,3 @@ services:
 networks:
   carbon-calc:
     driver: bridge
-
-volumes:
-  data:
