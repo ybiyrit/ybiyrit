@@ -1,0 +1,24 @@
+[submodule "bin"]
+	path = bin
+	url = git@github.com:ybiyrit/bin.git
+[submodule "claude"]
+	path = claude
+	url = git@github.com:ybiyrit/claude.git
+[submodule "dev-env"]
+	path = dev-env
+	url = git@github.com:ybiyrit/dev-env.git
+[submodule "etc"]
+	path = etc
+	url = git@github.com:ybiyrit/etc.git
+[submodule "fietsen"]
+	path = fietsen
+	url = git@github.com:ybiyrit/fietsen.git
+[submodule "files"]
+	path = files
+	url = git@github.com:ybiyrit/files.git
+[submodule "languages"]
+	path = languages
+	url = git@github.com:ybiyrit/languages.git
+[submodule "projects-web"]
+	path = projects-web
+	url = git@github.com:ybiyrit/projects-web.git
